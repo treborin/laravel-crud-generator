@@ -17,11 +17,12 @@
         "bootstrap css",
         "tailwind css",
         "alpine js",
-        "livewire"
+        "livewire",
+        "laravel breez"
     ],
     "require": {
-        "php": "^8.2",
-        "laravel/framework": "^10.30|^11.44|^12.2"
+        "php": "^8.2|^8.3",
+        "laravel/framework": "^10.30|^11.44|^12.2|^13.1"
     },
     "autoload": {
         "psr-4": {
